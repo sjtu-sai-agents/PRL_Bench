@@ -1,36 +1,3 @@
-## PhysMaster
-
-### Basic Info
-
-PhysMaster is an autonomous AI physicist designed for end-to-end theoretical and computational physics research, integrating rigorous analytical reasoning with executable numerical computation.
-
-📄 Technical Report v1: https://arxiv.org/abs/2512.19799
-
-### ⚙️ Technical Highlights
-
-- **Flexible subtask decomposition and scheduling**  
-  Dynamically decomposes complex research problems into structured subtasks with adaptive execution.
-
-- **MCTS-driven balanced exploration**  
-  Leverages Monte Carlo Tree Search to balance exploration and exploitation in long-horizon reasoning.
-
-- **Hierarchical academic knowledge base for enhanced reliability**  
-  Improves decision-making via structured priors, curated literature, and validated methodology traces.
-
----
-
-### 🔓 Open Source (Planned before May 2026)
-
-The new version of PhysMaster will introduce:
-
-- Full compatibility with skill ecosystems
-- More efficient context management and memory
-- Pre-built physics prior knowledge base
-- High-precision RAG (Retrieval-Augmented Generation)
-- Improved visualization
-
----
-
 ## PRL-Bench: A Benchmark of Physics Research by LLMs
 
 ### Overview

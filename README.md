@@ -1,5 +1,12 @@
 ## PRL-Bench: A Benchmark of Physics Research by LLMs
 
+### Link
+
+- 🤗 Hugging Face: https://huggingface.co/datasets/AdrianMiao/PRL_Bench
+- 📑 Arxiv: https://arxiv.org/pdf/2604.15411
+
+---
+
 ### Overview
 
 PRL-Bench (Physics Research by LLMs) is a research-oriented benchmark for evaluating large language models on end-to-end physics research tasks, with emphasis on exploration, long-horizon reasoning, and verifiable workflows.
@@ -52,8 +59,3 @@ We evaluate frontier LLMs under a unified setting with tool access for code exec
   - **Unstable long-horizon reasoning**  
     Derivation chains often become inconsistent or break under extended reasoning, with unsupported intermediate steps and difficulty maintaining coherent trajectories, limiting completion of full research workflows.
 
----
-
-### 🤗 Data
-
-- Hugging Face: https://huggingface.co/datasets/AdrianMiao/PRL_Bench
